@@ -1,0 +1,12 @@
+1
+4
+ALICE 
+BOB 
+CLAIRE
+DAVID
+place R1 at A0
+place G1 at A1
+place Y1 at A2
+place R5 at B0
+replace P4
+quit

@@ -1,0 +1,65 @@
+Welcome to Qwirkle!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 
+Enter the filename from which to load a game
+>
+Qwirkle game successfully loaded
+
+A, it's your turn
+Score for A: 84
+Score for B: 72
+Score for C: 35
+Score for D: 77
+   0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  -------------------------------------------------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+N |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+O |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Q |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+R |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+S |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+U |✦ |✦ |✦ |✦ |✦ |✦ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+V |⧈ |⧈ |⧈ |⧈ |⧈ |⧈ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+W |✶ |✶ |✶ |✶ |✶ |✶ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+X |♧ |♧ |♧ |♧ |♧ |♧ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Y |◆ |◆ |◆ |◆ |◆ |◆ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Z |੦ |੦ |੦ |੦ |੦ |੦ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+Y4,G2,Y3,R1,B4,Y2
+
+> 
+Information about Game Play
+Tile Codes: {1 is ੦}, {2 is ✦}, {3 is ◆}, {4 is ⧈}, {5 is ✶}, {6 is ♧}
+If you have R1 in your hand, you can place this tile by typing
+'place R1 at A0' which will place ੦ at A0
+If you would like to replace the tile, type 'replace R1'
+
+Information about saving/quitting game
+If you would like to save the current state of the game, type 'save desired_filename'
+If you would like to quit the game, simply type 'quit'
+
+> 
+Goodbye
